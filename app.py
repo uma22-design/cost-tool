@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 from openai import OpenAI
 
-st.title("🚀 CMA Cost Analysis Tool - Accenture CFM Demo")
+st.title("🚀 CMA Cost Analysis Tool")
 
 uploaded_file = st.file_uploader("📁 Upload CSV", type="csv")
 
